@@ -37,12 +37,14 @@ h1 {
 ul{
     padding-left: 16px;
 }
-section ul ul{
+/* section ul ul{
     align-self: center;
-}
+} */
 
 section{
     font-size: 15px;
+    margin: 5px;
+  
 }
 
 footer{
@@ -52,4 +54,13 @@ footer{
     text-align: center;
     vertical-align: center;
     height: 37px;
+}
+
+.interna{
+    display: flex;
+    padding: 8px;
+}
+
+span{
+    margin-right: 5px;
 }
